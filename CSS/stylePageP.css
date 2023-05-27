@@ -1,0 +1,129 @@
+body{
+background-color: #1C2927;
+}
+.out{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+.outA{
+    display:flex;
+align-items: center;
+justify-content: space-between;
+}
+.articl{
+    background-color: #1C2927;
+    width: 360px;
+    height: 560px;
+    border-radius:  20px;
+    border: black solid 5px;
+   
+}
+.main{
+display:flex;
+align-items: center;
+justify-content: center;
+height: 95vh;
+
+}
+
+.upMenu{
+width: 100%;
+height: 80px;
+}
+
+.search{
+background-color: #1C2927;
+margin: 5px 5px 5px 5px;
+}
+
+.sidetext{
+display:flex;
+align-items: center;
+justify-content: space-between;
+margin: 5px;
+}
+
+.mainBlock{
+    width: 100%;
+    height: 370px;
+    
+    background-color: #F0EEEE;
+}
+.bottomMenu{
+    width: 100%;
+    height: 100px;
+    
+    display:flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.FirstButton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #E5D9B0;
+    background-color: #E5D9B0;
+    cursor: pointer;
+}
+.secondButton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #E5D9B0;
+    background-color: #E5D9B0;
+    cursor: pointer;
+}
+.thirstButton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #E5D9B0;
+    background-color: #E5D9B0;
+    cursor: pointer;
+}
+.fourButton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #E5D9B0;
+    background-color: #E5D9B0;
+    cursor: pointer;
+}
+.fiveButton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #E5D9B0;
+    background-color: #E5D9B0;
+    cursor: pointer;
+}
+
+p{
+    color: #F0EEEE;
+    
+}
+a{
+    color: #1C2927;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.student{
+width: 340px;
+height: 100px;
+background: #7A9490;
+margin: 10px;
+border-radius: 5px;
+}
+.studentName{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20px;
+    margin: 20px;
+}

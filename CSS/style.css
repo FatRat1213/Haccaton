@@ -1,0 +1,71 @@
+.main{
+display:flex;
+align-items: center;
+justify-content: center;
+height: 95vh;
+}
+.articl{
+    background-color: #1C2927;
+    width: 310px;
+    height: 500px;
+    border-radius:  20px;
+    border: black solid 5px;
+   
+}
+.logintext{
+color: #E5D9B0;
+font-family: 'Gupter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+padding-bottom: 20px;
+padding-left: 105px;
+}
+.login{
+width: 300px;
+height: 36px;
+border: 1px solid #F0EEEE;
+background-color: #1C2927;
+border-radius: 30px;
+}
+.passwordtext{
+padding-top: 20px;
+padding-bottom: 20px;
+color: #E5D9B0;
+font-family: 'Gupter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+padding-left: 105px;
+}
+.password{
+width: 300px;
+height: 36px;
+border: 1px solid #F0EEEE;
+background-color: #1C2927;
+border-radius: 30px;
+}
+.enter{
+margin-top: 150px;
+padding-left: 105px;
+color: #E5D9B0;
+font-family: 'Gupter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+border: 1px solid #F0EEEE;
+background-color: #1C2927;
+border-radius: 10px;
+width: 200px;
+cursor: pointer;
+}
+body{
+background-color: #1C2927;
+}
+a{
+    text-decoration: none;
+    color: #E5D9B0;
+}
